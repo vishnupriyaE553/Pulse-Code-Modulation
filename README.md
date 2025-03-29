@@ -7,6 +7,7 @@ SOFTWARE: Google Colab
 Python Libraries: Numpy,Matplotlib
 
 Program :
+~~~
 # PCM import matplotlib.pyplot as plt
 import numpy as np
 
@@ -70,7 +71,7 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
-
+~~~
 Output Waveform :
 ![download](https://github.com/user-attachments/assets/478c37cb-540c-4ae3-84cc-53234d09df71)
 
